@@ -1,4 +1,4 @@
-package br.unipe.mpl.banco.conta.facade;
+package br.unipe.mpl.banco.facade;
 
 import br.unipe.mpl.banco.conta.cadastros.CadastroContas;
 import br.unipe.mpl.banco.conta.dados.contas.RepositorioContasArray;

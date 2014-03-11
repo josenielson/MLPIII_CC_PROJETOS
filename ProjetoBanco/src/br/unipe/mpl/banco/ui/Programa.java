@@ -1,9 +1,7 @@
 package br.unipe.mpl.banco.ui;
 
-import br.unipe.mpl.banco.conta.facade.BancoFacade;
 import br.unipe.mpl.banco.contas.Conta;
-import br.unipe.mpl.banco.contas.ContaCorrente;
-import br.unipe.mpl.banco.contas.ContaPoupanca;
+import br.unipe.mpl.banco.facade.BancoFacade;
 
 /**
  * 
